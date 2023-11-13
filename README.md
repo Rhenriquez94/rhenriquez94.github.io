@@ -11,3 +11,9 @@ Mi CV :
 https://rhenriquez94.github.io/
 
 ![image](https://github.com/Rhenriquez94/rhenriquez94.github.io/assets/91695458/985a78ff-890a-4ade-8ad7-9a19a0373ffd)
+
+Fork: 
+1 : https://github.com/Rhenriquez94/Anayamaraya.github.io
+2 : https://github.com/Rhenriquez94/IsaRomeroJ.github.io
+
+Commits: https://github.com/Anayamaraya/Anayamaraya.github.io/pull/1
